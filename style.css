@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+
+}
+
+header {   
+
+}
+
+.header {
+display: flex;
+align-items: center;
+justify-content:space-between;
+padding: 20px 107px 20px 62px;
+max-width: 1440px;
+margin: auto;
+
+}
+
+.nav a {
+    color: #957554;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+.nav a:hover{
+    color: blue;
+    transition: .3s;
+}
